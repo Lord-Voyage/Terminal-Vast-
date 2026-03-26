@@ -23,8 +23,8 @@
     <img src="https://img.shields.io/badge/⬇️%20Download%20Bot-green?style=for-the-badge">
   </a>
 
-  <a href="https://github.com/Lord-Voyage/Terminal-Vast-/issues">
-    <img src="https://img.shields.io/badge/🐛%20Report%20Bug-red?style=for-the-badge&logo=github">
+  <a href="https://wa.me/256702662846?text=Hello%20I%20want%20to%20report%20a%20bug%20in%20Terminal%20Vast">
+    <img src="https://img.shields.io/badge/🐛%20Report%20Bug-WhatsApp-red?style=for-the-badge&logo=whatsapp">
   </a>
 
   <a href="mailto:delostvoyage@gmail.com">
@@ -45,3 +45,10 @@
 </p>
 
 ---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/Lord-Voyage/Terminal-Vast-
+cd Terminal-Vast-
+npm install
